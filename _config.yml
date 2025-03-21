@@ -1,0 +1,8 @@
+# general
+title: PicoCTF 20__ Writeups
+description: Writeups for the 20__ PicoCTF challenges I have completed
+author: Bsnookie9
+# theme
+theme: jekyll-theme-hacker
+# Github flavored markdown
+markdown: GFM
