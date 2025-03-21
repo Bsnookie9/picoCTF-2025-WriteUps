@@ -7,7 +7,7 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
-  <summary>Forensics (0/__)</summary>
+  <summary>Forensics (0/6)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
@@ -21,21 +21,20 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>General Skills (0/__)</summary>
+  <summary>General Skills (1/5)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
-  | [FANTASY CTF] | N |
+  | [FANTASY CTF](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/General%20Skills/FANTASY%20CTF) | Y |
   | [Rust fixme 3] | N |
   | [Rust fixme 2] | N |
   | [Rust fixme 1] | N |
   | [YaraRules0x100] | N |
-  | [] | N |
 
 </details>
 
 <details>
-  <summary>Reverse Engineering (0/__)</summary>
+  <summary>Reverse Engineering (0/7)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
@@ -50,7 +49,7 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>Web Exploitation (0/__)</summary>
+  <summary>Web Exploitation (0/11)</summary>
   
   | Challenge | Solved |
   | [SSTI1] | N |
