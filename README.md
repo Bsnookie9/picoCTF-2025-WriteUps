@@ -21,13 +21,13 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>General Skills (3/5)</summary>
+  <summary>General Skills (4/5)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
   | [FANTASY CTF](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/General%20Skills/FANTASY%20CTF) | Y |
   | [Rust fixme 3](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/General%20Skills/Rust%20fixme%203) | Y |
-  | [Rust fixme 2] | N |
+  | [Rust fixme 2](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/General%20Skills/Rust%20fixme%202) | Y |
   | [Rust fixme 1](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/General%20Skills/Rust%20fixme%201) | Y |
   | [YaraRules0x100] | N |
 
