@@ -49,13 +49,14 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>Web Exploitation (0/11)</summary>
+  <summary>Web Exploitation (1/11)</summary>
   
   | Challenge | Solved |
+  | --------- | ------ |
   | [SSTI1] | N |
   | [n0s4n1ty 1] | N |
   | [head-dump] | N |
-  | [Cookie Monster Secret Recipe] | N |
+  | [Cookie Monster Secret Recipe](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/Web%20Exploitation/Cookie%20Monster%20Secret%20Recipe) | Y |
   | [Pachinko] | N |
   | [SSTI2] | N |
   | [3v@l] | N |
