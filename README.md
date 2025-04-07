@@ -34,11 +34,11 @@ Here are the write-ups for the challenges I completed
 </details>
 
 <details>
-  <summary>Reverse Engineering (0/7)</summary>
+  <summary>Reverse Engineering (1/7)</summary>
   
   | Challenge | Solved |
   | --------- | ------ |
-  | [Flag Hunters] | N |
+  | [Flag Hunters](https://github.com/Bsnookie9/picoCTF-2025-WriteUps/tree/main/Reverse%20Engineering/Flag%20Hunters) | Y |
   | [Quantum Scrambler] | N |
   | [Chronohack] | N |
   | [Tap into Hash] | N |
