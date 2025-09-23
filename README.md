@@ -7,6 +7,20 @@ Here are the write-ups for the challenges I completed
 # Challenges
 
 <details>
+  <summary>Cryptography (1/6)</summary>
+  
+  | Challenge | Solved |
+  | --------- | ------ |
+  | [hashcrack] | Y |
+  | [EVEN RSA CAN BE BROKEN???] | N |
+  | [Guess My Cheese (Part 1)] | N |
+  | [Guess My Cheese (Part 2)] | N |
+  | [Ricochet] | N |
+  | [ChaCha Slide] | N |
+
+</details>
+
+<details>
   <summary>Forensics (0/6)</summary>
   
   | Challenge | Solved |
